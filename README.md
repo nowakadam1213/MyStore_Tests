@@ -1,2 +1,2 @@
 # MyStore_Tests
-MyStore tests (https://mystore-testlab.coderslab.pl). Coders Lab Automation Tester diploma assignment.
+ MyStore Tests (https://mystore-testlab.coderslab.pl). Coders Lab Automation Tester course diploma assignment.
